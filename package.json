@@ -1,0 +1,23 @@
+{
+  "name": "focusmaster",
+  "version": "1.0.0",
+  "description": "helps in focusing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sairamya-18/FocusMaster.git"
+  },
+  "keywords": [
+    "focus",
+    "concentration"
+  ],
+  "author": "Sai Ramya",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sairamya-18/FocusMaster/issues"
+  },
+  "homepage": "https://github.com/sairamya-18/FocusMaster#readme"
+}
