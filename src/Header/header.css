@@ -1,0 +1,20 @@
+header {
+    background-color: #007bff; /* vibrant blue */
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+  nav a {
+    color: white;
+    text-decoration: none;
+    margin-left: 20px;
+    font-weight: bold;
+    transition: color 0.3s ease; /* smooth color transition on hover */
+  }
+  
+  nav a:hover {
+    color: #ffc107; /* vibrant yellow on hover */
+  }
+  
